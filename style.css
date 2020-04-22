@@ -196,7 +196,7 @@ h6 {
 
 
 .top-inner {
-    background: url(/images/Group\ 51.png)100% 100% no-repeat;
+    background: url(images/Group\ 51.png)100% 100% no-repeat;
     background-size: cover;
     background-position: center;
     min-height: 504px;
@@ -263,7 +263,7 @@ h6 {
 }
 
 .benifits::after {
-    content: url(/images/paw.svg);
+    content: url(images/paw.svg);
     position: absolute;
     top: 0px;
     right: 0px;
@@ -344,7 +344,7 @@ h6 {
 
 .rooms::after {
     position: absolute;
-    content: url(/images/fish.svg);
+    content: url(images/fish.svg);
     top: 30px;
     left: 0%;
     z-index: -1;
@@ -366,7 +366,7 @@ h6 {
 
 .rooms::after {
     position: absolute;
-    content: url(/images/fish.svg);
+    content: url(images/fish.svg);
     top: 30px;
     left: 0%;
     z-index: -1;
@@ -415,7 +415,7 @@ h6 {
 
 .slider__list li::before {
     padding-right: 8px;
-    content: url(/images/icon/list-style.png);
+    content: url(images/icon/list-style.png);
 }
 
 .slider__list li:last-child {
@@ -436,7 +436,7 @@ h6 {
 }
 
 .button {
-    background: url(/images/icon/slider_button_img.png) 95% center no-repeat #FF7236;
+    background: url(images/icon/slider_button_img.png) 95% center no-repeat #FF7236;
     color: #FFFEFD;
     border-radius: 25px;
     font-weight: 600;
@@ -477,7 +477,7 @@ h6 {
 
 .slider .slick-arrow.slick-prev {
     margin-left: 10px;
-    background: url(/images/icon/slider_arrow_1\ .svg) no-repeat center;
+    background: url(images/icon/slider_arrow_1\ .svg) no-repeat center;
     border-radius: 50%;
     background-color: #fff;
 
@@ -488,7 +488,7 @@ h6 {
 
 .slider .slick-arrow.slick-next {
     margin-left: 60px;
-    background: url(/images/icon/slider_arrow_2.svg) no-repeat center;
+    background: url(images/icon/slider_arrow_2.svg) no-repeat center;
     border-radius: 50%;
     background-color: #fff;
 
@@ -526,7 +526,7 @@ h6 {
 
 .reviews::after {
     position: absolute;
-    content: url(/images/paw_2.svg);
+    content: url(images/paw_2.svg);
     top: -60px;
     right: 0px;
 
@@ -694,7 +694,7 @@ h6 {
     }
 
     .top-inner {
-        background: url(/images/main-960.jpg)100% 100% no-repeat;
+        background: url(images/main-960.jpg)100% 100% no-repeat;
         background-size: cover;
         min-height: 868px;
         display: flex;
@@ -730,7 +730,7 @@ h6 {
     }
 
     .benifits::after {
-        content: url(/images/paw\ 960px.png);
+        content: url(images/paw\ 960px.png);
     }
 
     .benifits-item__title {
@@ -741,7 +741,7 @@ h6 {
 
     .rooms::after {
         position: absolute;
-        content: url(/images/fish_960.svg);
+        content: url(images/fish_960.svg);
         top: 50px;
         left: 0px;
     }
@@ -790,14 +790,14 @@ h6 {
     }
 
     .slider__list li::before {
-        content: url(/images/icon/list-style.png);
+        content: url(images/icon/list-style.png);
         padding-right: 8px;
 
     }
 
     .reviews::after {
         position: absolute;
-        content: url(/images/paw-bottom-960.png);
+        content: url(images/paw-bottom-960.png);
         top: -40px;
         right: 0px;
     }
@@ -855,7 +855,7 @@ h6 {
     }
 
     .top-inner {
-        background-image: url(/images/main\ 768.jpg);
+        background-image: url(images/main\ 768.jpg);
         align-items: unset;
 
     }
@@ -875,7 +875,7 @@ h6 {
 
 @media (max-width: 700px) {
     .top-inner {
-        background-image: url(/images/main\ 320.png);
+        background-image: url(images/main\ 320.png);
         align-items: unset;
         min-height: 648px;
 
@@ -939,7 +939,7 @@ h6 {
     }
 
     .slider__list li::before {
-        content: url(/images/icon/list-style.png);
+        content: url(images/icon/list-style.png);
         padding-right: 8px;
 
     }
@@ -963,7 +963,7 @@ h6 {
 
     .button {
         font-weight: 600;
-        background: url(/images/icon/slider_button_img.png) 95% center no-repeat #FF7236;
+        background: url(images/icon/slider_button_img.png) 95% center no-repeat #FF7236;
         border-radius: 25px;
     }
 
@@ -1116,7 +1116,7 @@ h6 {
     }
 
     .benifits::after {
-        content: url(/images/paw\ 320.svg);
+        content: url(images/paw\ 320.svg);
         position: absolute;
         top: 0px;
         right: 0px;
@@ -1152,7 +1152,7 @@ h6 {
     .slider__item {}
 
     .rooms::after {
-        content: url(/images/fish\ 320.svg);
+        content: url(images/fish\ 320.svg);
         top: 40px;
         left: 0%;
     }
@@ -1204,7 +1204,7 @@ h6 {
 
     .reviews::after {
         position: absolute;
-        content: url(/images/paw__bottom\(320\).svg);
+        content: url(images/paw__bottom\(320\).svg);
         top: -60px;
         right: 0px;
 
@@ -1297,11 +1297,11 @@ h6 {
     position: relative;
     width: 174px;
     height: 35px;
-    background: url(/images/icon/select__arrow--up.svg)no-repeat 88% center;
+    background: url(images/icon/select__arrow--up.svg)no-repeat 88% center;
 }
 
 .select.select.is-active {
-    background: url(/images/icon/select__arrow--down\ orange.svg)no-repeat 88% center;
+    background: url(images/icon/select__arrow--down\ orange.svg)no-repeat 88% center;
 }
 
 .select.is-active .select__body {
@@ -1432,7 +1432,7 @@ h6 {
 }
 
 .custom-checkbox:checked+label::before {
-    content: url(/images/icon/checkbox_checked.svg);
+    content: url(images/icon/checkbox_checked.svg);
     text-align: center;
 
 }
@@ -1589,7 +1589,7 @@ h6 {
 }
 
 .offer {
-    background: url(/images/catalog-item__img/catalog-banner_1170.jpg) no-repeat center;
+    background: url(images/catalog-item__img/catalog-banner_1170.jpg) no-repeat center;
     padding-top: 68px;
     padding-left: 270px;
     padding-bottom: 77px;
@@ -1632,7 +1632,7 @@ h6 {
 @media (max-width: 560px) {
 
     .offer {
-        background: url(/images/catalog-item__img/catalog-banner_320.png) no-repeat center;
+        background: url(images/catalog-item__img/catalog-banner_320.png) no-repeat center;
         padding: 50px 26px 258px 26px;
         margin-bottom: 70px;
 
@@ -1839,7 +1839,7 @@ h6 {
 }
 
 .popup__form::after {
-    content: url(/images/paw-modal-desktop.svg);
+    content: url(images/paw-modal-desktop.svg);
     position: absolute;
     top: 0;
     left: 0;
@@ -1953,7 +1953,7 @@ h6 {
 }
 
 .popup-sent::after {
-    content: url(/images/popup__img/popup__paw_sent-desc.svg);
+    content: url(images/popup__img/popup__paw_sent-desc.svg);
     position: absolute;
     bottom: -13px;
     left: -13px;
@@ -2005,7 +2005,7 @@ h6 {
     }
 
     .popup__form::after {
-        content: url(/images/paw-modal-desktop.svg);
+        content: url(images/paw-modal-desktop.svg);
         position: absolute;
         top: 0;
         left: 0;
@@ -2114,7 +2114,7 @@ h6 {
 
     .popup__form::after {
 
-        content: url(/images/popup__img/popup__paw-mobile.svg);
+        content: url(images/popup__img/popup__paw-mobile.svg);
 
     }
 
@@ -2148,7 +2148,7 @@ h6 {
     }
 
     .popup-sent::after {
-        content: url(/images/popup__img/popup__paw_sent-mobile.svg);
+        content: url(images/popup__img/popup__paw_sent-mobile.svg);
         position: absolute;
         bottom: -13px;
         left: -13px;
