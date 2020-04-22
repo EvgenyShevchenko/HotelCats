@@ -135,7 +135,7 @@ h6 {
 }
 
 .container {
-    max-width: 1205px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
 
@@ -147,7 +147,7 @@ h6 {
     align-items: center;
 }
 
-.logo {}
+
 
 .header__burger {
     display: none;
@@ -160,7 +160,7 @@ h6 {
 
 }
 
-.header__link {}
+
 
 .header__list li+li {
     padding-left: 30px;
@@ -356,7 +356,7 @@ h6 {
     padding: 0 15px;
 }
 
-.slider {}
+
 
 
 .slider__item {
@@ -538,7 +538,7 @@ h6 {
 }
 
 
-.slider-reviews {}
+
 
 .slider-reviews__item {
     padding: 35px 38px 35px 70px;
@@ -1075,7 +1075,7 @@ h6 {
         transform: scale(0);
     }
 
-    .header__menu.active {}
+
 
     .top {
         margin-bottom: 70px;
@@ -1147,9 +1147,6 @@ h6 {
         position: relative;
     }
 
-    .slider {}
-
-    .slider__item {}
 
     .rooms::after {
         content: url(images/fish\ 320.svg);
@@ -1596,8 +1593,6 @@ h6 {
     margin-bottom: 140px;
 }
 
-.offer__text {}
-
 .offer__title {
     font-family: Rubik;
     font-weight: 700;
@@ -1769,8 +1764,6 @@ h6 {
 }
 
 
-.js-overlay-reserv {}
-
 .popup {
     top: 15%;
     left: 50%;
@@ -1782,8 +1775,6 @@ h6 {
     border-radius: 10px;
 
 }
-
-.js-popup-reserv {}
 
 .popup__close {
     position: absolute;
@@ -1939,7 +1930,6 @@ h6 {
     backdrop-filter: blur(8px)
 }
 
-.js-overlay-sent {}
 
 .popup-sent {
     top: 15%;
@@ -1988,8 +1978,6 @@ h6 {
 .popup-sent__subtitle {
     margin-bottom: 40px;
 }
-
-.button-wrapper {}
 
 .popup-sent__button {
     padding: 17px 71px 17px 34px;
@@ -2084,8 +2072,6 @@ h6 {
         margin-bottom: 20px;
     }
 
-    .room-card__item-big {}
-
     .room-card__slider-big img {
         width: 354px;
         height: 288px;
@@ -2096,9 +2082,6 @@ h6 {
         align-items: center;
 
     }
-
-    .rooms-wrapper {}
-
 
 }
 
@@ -2172,7 +2155,6 @@ h6 {
         margin-bottom: 35px;
     }
 
-    .button-wrapper {}
 
     .popup-sent__button {
         padding: 17px 71px 17px 34px;
@@ -2237,7 +2219,7 @@ h6 {
         margin-bottom: 16px;
     }
 
-    .room-card__item-big {}
+
 
     .room-card__slider-big img {
         width: 290px;
