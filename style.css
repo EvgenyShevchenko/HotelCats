@@ -1296,7 +1296,10 @@ h6 {
     height: 35px;
     background: url(images/icon/select__arrow--up.svg)no-repeat 88% center;
 }
-
+.select-icon {
+    margin-right: 5px;
+    padding-bottom: 5px;
+}
 .select.select.is-active {
     background: url(images/icon/select__arrow--down\ orange.svg)no-repeat 88% center;
 }
