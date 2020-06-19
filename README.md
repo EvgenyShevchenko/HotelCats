@@ -1,2 +1,3 @@
 # EvgenyShevchenko.github.io
-BEM. Adapive all device. Modal. Sliders. Validator 100%.
+Hotel Cats.
+BEM. Adaptive all device. Modal. Sliders. Validator. Custom select. 
